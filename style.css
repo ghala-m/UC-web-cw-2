@@ -1,0 +1,31 @@
+.first{
+    color: red;
+    text-align: center;
+}
+
+
+#dish-name{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.card{
+
+width: 500px;
+background-color: khaki;
+text-align: center;
+
+
+}
+
+
+#dish-name2{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+
+#dish-name3{
+    font-size: 50px;
+    color: aliceblue;
+}
